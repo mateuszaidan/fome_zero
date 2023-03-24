@@ -169,7 +169,7 @@ O painel estratégico foi desenvolvido utilizando as métricas que refletem 3 pr
 
 Dashboard Online, hospedado em cloud e disponível para acesso em qualquer dispositivo conectado à internet.
 
-O dashboard pode ser acessado através deste link: 
+O dashboard pode ser acessado através deste link: https://mateuszaidan-fome-zero-home-mzvcy0.streamlit.app/
 # 6. Conclusão
 
 O objetivo desse projeto é criar um conjunto de gráficos e/ou tabelas que exibam essas métricas da melhor forma possível para o CEO.
