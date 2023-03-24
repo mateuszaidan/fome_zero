@@ -1,5 +1,4 @@
 haversine==2.7.0
-python==3.9.0
 pandas==1.4.4
 folium==0.14.0
 streamlit==1.20.0
